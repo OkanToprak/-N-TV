@@ -1,1 +1,1 @@
-worker node baslat.bat
+worker node bot.js
